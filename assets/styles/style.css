@@ -1,0 +1,35 @@
+.species-img {
+    width: 200px;
+    height: auto; 
+  }
+
+  .fondo-banner{
+    background-image: url("../img/banner-colombia.webp");
+    background-size: cover; /* Ajusta la imagen para cubrir todo el área */
+    background-position: center; /* Centra la imagen en el área */
+    color: white; /* Cambia el color del texto si es necesario */
+    height: 200px;
+    width: 100%;
+    text-align: center; /* Centra el texto horizontalmente */
+  }
+
+
+  .bg-blue{ 
+    background-color: rgb(30, 39, 135);
+
+  }
+  .bg-bordo{
+    background-color: rgb(107, 32, 32);
+  }
+  a.btn-primary{
+    background-color: rgb(107, 32, 32);
+    border: black;
+  }
+  a.btn-primary:hover{
+    background-color: rgb(137, 164, 29);
+  }
+
+  .h-30{
+    height: 200px;
+    width: 300px;
+  }
